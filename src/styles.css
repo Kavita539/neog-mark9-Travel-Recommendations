@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css2?family=Otomanopee+One&display=swap");
+
+.App {
+  font-family: sans-serif;
+  text-align: left;
+  width: 100%;
+  max-width: 600px;
+  margin: auto;
+  color: black;
+}
+
+body {
+  margin: 2rem 1.5rem;
+  background-color: #3b82f6;
+}
+
+nav {
+  text-align: center;
+  background-color: #1e3a8a;
+  padding: 1rem;
+  border-radius: 2rem 2rem 2rem 2rem;
+  width: 100%;
+}
+
+header {
+  margin: auto;
+  text-align: center;
+  margin-top: 1rem;
+  padding: 1rem;
+  font-size: 1rem;
+  font-family: "Otomanopee One", sans-serif;
+}
+
+hr {
+  border: 1px solid black;
+}
+
+h1 {
+  font-family: "Otomanopee One", sans-serif;
+  font-size: 1.5rem;
+}
+
+button {
+  margin: 0.5rem;
+  padding: 0.5rem 1rem;
+  border-radius: 0.4rem;
+  background-color: #7163ad;
+  border: 1px solid black;
+  color: white;
+}
+
+ul {
+  padding-inline-start: 0;
+}
+
+li {
+  display: flex;
+  background-color: #0e1d4e;
+  border: 1px solid black;
+  margin-bottom: 1.2rem;
+  border-radius: 1rem;
+  color: white;
+}
